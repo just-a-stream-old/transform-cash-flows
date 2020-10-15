@@ -6,7 +6,6 @@ import finance.modelling.data.transform.transformcashflows.repository.mapper.Cas
 import finance.modelling.data.transform.transformcashflows.service.config.TopicConfig;
 import finance.modelling.fmcommons.data.logging.LogDb;
 import finance.modelling.fmcommons.data.logging.kstream.LogMessageConsumed;
-import finance.modelling.fmcommons.data.schema.fmp.dto.FmpBalanceSheetsDTO;
 import finance.modelling.fmcommons.data.schema.fmp.dto.FmpCashFlowsDTO;
 import finance.modelling.fmcommons.data.schema.model.CashFlows;
 import org.apache.kafka.streams.kstream.KStream;
